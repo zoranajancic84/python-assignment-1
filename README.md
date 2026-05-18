@@ -7,7 +7,9 @@ Program treba da:
 3. Ispiše personalizovanu poruku
 
 Primer:
+
 Unesi ime: Ana
+
 Unesi godine: 20
 
 Izlaz:
